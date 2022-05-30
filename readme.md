@@ -1,17 +1,18 @@
-Things I have learned in WEB3   
+#Things I have learned in WEB3 
 
-* **BLOCKCHAIN**  
+
+### **BLOCKCHAIN**  
 [Blockchain Demo](https://andersbrownworth.com/blockchain)  
 
-* **ETHERUM**  
+### **ETHERUEM**  
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)
 
-* **SOLIDITY** 
-* **WEB3 LIBRARIES**
-* **JAVASCRIPT**
+### **SOLIDITY TOOLS & FRAMEWORKS** 
+### **WEB3 LIBRARIES**
+### **JAVASCRIPT**
 
-* **BLOCKCHAIN SPACE**  
+### **BLOCKCHAIN SPACE**  
  * **NFT**
  * **DEFI**
  * **FLASHLOANS**
