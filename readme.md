@@ -6,7 +6,8 @@
 
 ### **ETHERUEM**  
 [Eth.Build Education Sandbox](https://eth.build)  
-[Dapp Univeristy](https://dappuniversity.com)
+[Dapp Univeristy](https://dappuniversity.com)  
+[EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
 
 ### **SOLIDITY TOOLS & FRAMEWORKS** 
 ### **WEB3 LIBRARIES**
