@@ -1,3 +1,5 @@
+#Things I have learned in WEB3 
+
 
 ### **BLOCKCHAIN**  
 [Blockchain Demo](https://andersbrownworth.com/blockchain)  
@@ -30,7 +32,18 @@
 * **Re-entrancy Attack**
 
 ### **SOLIDITY TOOLS & FRAMEWORKS** 
+* **Truffle & Ganace**
+* **Hardhat**
+* **Scaffold ETH**
+* **Etheruem Development Tools**.
+
+ 
 ### **WEB3 LIBRARIES**
+* **Web3.js**
+* **Ethers.js**
+* **Moralis**
+
+
 ### **JAVASCRIPT**
 ### **THE GRAPH PROTOCOL**
 ### **THE CHAINLINK PROTOCOL**  
@@ -48,5 +61,15 @@
     
 
 ### **FRONTEND DAPP**
+### **CSS**
+* **Responsive Design.**   
+[Kevin Powell Responsive Design](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233002-introduction/1007804-intro-why-the-course-is-formatted-in-this-way)
+* **Tailwind CSS Macros and Styled Components** 
+
+### **DISCORD**
+* **Bots**
+* **Community Building**
+* **Autherization & Authentication**
+
 ### **DESIGN PATTERNS**
 [refactoring.guru](https://refactoring.guru/design-patterns)
