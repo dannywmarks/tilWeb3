@@ -1,5 +1,3 @@
-#Things I have learned in WEB3 
-
 
 ### **BLOCKCHAIN**  
 [Blockchain Demo](https://andersbrownworth.com/blockchain)  
@@ -8,6 +6,9 @@
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)  
 [EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
+
+### **NFTs**
+* **ERC-721**
 
 
 ### SCALABILITY
@@ -47,3 +48,5 @@
     
 
 ### **FRONTEND DAPP**
+### **DESIGN PATTERNS**
+[refactoring.guru](https://refactoring.guru/design-patterns)
