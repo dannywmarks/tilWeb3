@@ -4,7 +4,7 @@
 ### **BLOCKCHAIN**  
 [Blockchain Demo](https://andersbrownworth.com/blockchain)  
 
-### **ETHEREUM**  
+### **ETHERUEM**  
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)  
 [EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
@@ -62,8 +62,10 @@
     
 
 ### **FRONTEND DAPP**
+* **REACT**   
+[How to use async functions with useEffect](https://devtrium.com/posts/async-functions-useeffect)  
 ### **CSS**
-* **Responsive Design.**   
+* **Responsive Design**   
 [Kevin Powell Responsive Design](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233002-introduction/1007804-intro-why-the-course-is-formatted-in-this-way)
 * **Tailwind CSS Macros and Styled Components** 
 
