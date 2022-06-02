@@ -48,6 +48,7 @@
 ### **THE GRAPH PROTOCOL**
 ### **THE CHAINLINK PROTOCOL**  
 ### **THE LENS PROTOCOL**
+[Front-end API Profile REPO](https://github.com/dabit3/lens-protocol-frontend)
 
 ### **BLOCKCHAIN SPACE**  
  * **NFT**
@@ -73,3 +74,6 @@
 
 ### **DESIGN PATTERNS**
 [refactoring.guru](https://refactoring.guru/design-patterns)
+
+### **DATA STRUCTURES AND ALGORITHMS**
+[Structy](https://www.structy.net)
