@@ -4,7 +4,7 @@
 ### **BLOCKCHAIN**  
 [Blockchain Demo](https://andersbrownworth.com/blockchain)  
 
-### **ETHERUEM**  
+### **ETHEREUM**  
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)  
 [EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
