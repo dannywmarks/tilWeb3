@@ -2,12 +2,12 @@
 
 ### **BLOCKCHAIN**
 
-[Blockchain Demo](https://andersbrownworth.com/blockchain)  
+[Blockchain Demo](https://andersbrownworth.com/blockchain)
 
-## **BITCOIN**  
-
+## **BITCOIN**
 
 ### **ETHERUEM**
+
 [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)  
@@ -47,7 +47,8 @@
 - **Scaffold ETH**
 - **Etheruem Development Tools**.
 
-### **WEB3 LIBRARIES**  
+### **WEB3 LIBRARIES**
+
 [Web3Js vs EthersJs](https://www.youtube.com/watch?v=DdyXocqnCxE&t=476s)
 
 - **Web3.js**
@@ -57,10 +58,13 @@
 ### **JAVASCRIPT**
 
 ### **GraphQL**
+
 [urql vs appollo](https://blog.logrocket.com/why-i-finally-switched-to-urql-from-apollo-client/)
+[Graphql w urql Tutorial Project](https://www.howtographql.com/react-urql/0-introduction/)
 
 ### **THE GRAPH PROTOCOL**
-* **Subgraphs**
+
+- **Subgraphs**
 
 ### **THE CHAINLINK PROTOCOL**
 
@@ -117,4 +121,5 @@
 [Git Cheatsheet](https://devhints.io/git-tricks)
 
 ### **ANTI BLOCKCHAIN, CRITIQUES, AND FUCK YOUS**
-* **Dan Olson**
+
+- **Dan Olson**
