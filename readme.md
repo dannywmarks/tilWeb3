@@ -44,7 +44,8 @@
 - **Scaffold ETH**
 - **Etheruem Development Tools**.
 
-### **WEB3 LIBRARIES**
+### **WEB3 LIBRARIES**  
+[Web3Js vs EthersJs](https://www.youtube.com/watch?v=DdyXocqnCxE&t=476s)
 
 - **Web3.js**
 - **Ethers.js**
