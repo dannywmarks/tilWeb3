@@ -2,10 +2,13 @@
 
 ### **BLOCKCHAIN**
 
-[Blockchain Demo](https://andersbrownworth.com/blockchain)
+[Blockchain Demo](https://andersbrownworth.com/blockchain)  
+
+## **BITCOIN**  
+
 
 ### **ETHERUEM**
-
+[Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 [Eth.Build Education Sandbox](https://eth.build)  
 [Dapp Univeristy](https://dappuniversity.com)  
 [EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
@@ -53,7 +56,11 @@
 
 ### **JAVASCRIPT**
 
+### **GraphQL**
+[urql vs appollo](https://blog.logrocket.com/why-i-finally-switched-to-urql-from-apollo-client/)
+
 ### **THE GRAPH PROTOCOL**
+* **Subgraphs**
 
 ### **THE CHAINLINK PROTOCOL**
 
@@ -108,3 +115,6 @@
 ### **GIT**
 
 [Git Cheatsheet](https://devhints.io/git-tricks)
+
+### **ANTI BLOCKCHAIN, CRITIQUES, AND FUCK YOUS**
+* **Dan Olson**
