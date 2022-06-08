@@ -13,6 +13,7 @@
 [Dapp Univeristy](https://dappuniversity.com)  
 [EIP-1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
 [Ethereum Speed Run](https://www.youtube.com/watch?v=91ADHMUH0Ds)
+[Ethereum Gas Tracker - Optimization tool](https://github.com/cgewecke/eth-gas-reporter)
 
 ### **NFTs**
 
