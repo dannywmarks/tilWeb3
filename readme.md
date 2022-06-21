@@ -34,6 +34,8 @@
 ### SECURITY AND AUDITS
 
 - **Open Zeppelin Library**
+- **Quickstart guide for hacking blockchains**
+  [Blockchain Hax](https://start.blockchainhax.com)
 
 ### HACKS AND BLOCKCHAIN ATTACKS
 
